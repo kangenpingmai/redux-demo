@@ -1,0 +1,1 @@
+export const GET_MAP_DATA = 'map/get_map_data'
